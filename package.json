@@ -1,0 +1,23 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "Chat bot tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreax0102/messenger-webhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreax0102/messenger-webhook/issues"
+  },
+  "homepage": "https://github.com/andreax0102/messenger-webhook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
